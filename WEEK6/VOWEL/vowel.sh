@@ -21,6 +21,21 @@ case $char in
 
 	'u') echo "Vowel"
 	;;
+	
+	'A') echo "vowel"
+	 ;;
+	 
+	'E') echo "vowel"
+	 ;;
+	 
+	'I') echo "vowel"
+	 ;;
+	 
+	'O') echo "vowel"
+	;;
+	
+	'U') echo "vowel"
+	;;
 
 	*) echo "Consonant"
 	;;
