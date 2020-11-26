@@ -1,10 +1,10 @@
 #!/bin/sh
 
-echo -e "Enter file1: \c"
+echo  "Enter file1: \c"
 read f1 
-echo -e "Enter file2: \c"
+echo  "Enter file2: \c"
 read f2 
-echo -e "Enter destination file: \c"
+echo  "Enter destination file: \c"
 read f3
 
 cat $f1 | head -5 >> $f3
